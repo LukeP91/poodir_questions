@@ -1,6 +1,8 @@
 # Chapter 4 - Creating Flexible Interfaces
 
 ## Tell me about communication patterns - what are costs/benefits of them?
+
+![communication_pattern](./communication_patterns.png "Communication patterns")
 ## How would you define an interface for a class?
 
 All methods that are defined within given class. They can be divided into two interfaces, Public and Private.
@@ -26,6 +28,8 @@ Private:
 To model objects and messages passed between them. Give use simple tool to experiment with different designs, objects arrangments.
 
 ## Could you draw a simple sequence diagram between two classes?
+
+![sequence_diagram](./sequence_diagram.png "Sequence diagram")
 
 ## What’s the thing with “asking about what not how the object”?
 
