@@ -24,5 +24,3 @@ For example Admin class and User class. Both of them can respond to the same mes
 ## How can we share ducks behavior between different objects?
 
 Objects share duck typing behavior by implementing the same interfaces ( Public method signatures). Additionally, classes can include modules that give them access to shared interfaces.
-
-

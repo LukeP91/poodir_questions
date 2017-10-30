@@ -43,4 +43,3 @@ We can divide code based on two things ( how often it changes, and how much it i
 * Next code that changes rarely (is stable), but is dependent on often
 * Code that doesn't change much and is not dependent on
 * And the last one, most dangerous. Code that changes often and has lots of dependencies
-
